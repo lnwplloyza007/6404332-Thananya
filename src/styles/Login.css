@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    background: linear-gradient(135deg,#f083d8, #69d7eb, #b97edb, #8cf0a1);
     padding: 20px;
   }
   
@@ -61,11 +61,11 @@
   
   .form-group input:focus {
     outline: none;
-    border-color: #ff7e5f;
+    border-color: #85cfec;
   }
   
   .submit-button {
-    background: #ff7e5f;
+    background: #6192db;
     color: white;
     padding: 0.75rem;
     border: none;
@@ -78,7 +78,7 @@
   }
   
   .submit-button:hover:not(:disabled) {
-    background: #ff6b4a;
+    background: #9c76da;
   }
   
   .submit-button:disabled {
@@ -88,7 +88,7 @@
   
   .error-message {
     background: #fed7d7;
-    color: #c53030;
+    color: #af51d4;
     padding: 0.75rem;
     border-radius: 8px;
     margin-bottom: 1rem;
@@ -104,7 +104,7 @@
   .toggle-button {
     background: none;
     border: none;
-    color: #ff7e5f;
+    color: #4125a5;
     font-weight: 600;
     cursor: pointer;
     padding: 0 0.25rem;

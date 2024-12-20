@@ -11,8 +11,8 @@
     text-align: center;
     margin-bottom: 3rem;
     padding: 2rem;
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
-    color: white;
+    background: linear-gradient(135deg, #ec4daa, #6ebbe7);
+    color: rgb(255, 255, 255);
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -63,8 +63,8 @@
   }
   
   .submit-btn {
-    background: #ff7e5f;
-    color: white;
+    background: #6dd6a5;
+    color: rgb(29, 22, 22);
     padding: 0.75rem 2rem;
     border: none;
     border-radius: 8px;
@@ -79,7 +79,7 @@
   }
   
   .submit-btn:hover {
-    background: #ff6b4a;
+    background: #6ee974;
   }
   
   .food-grid {
@@ -205,7 +205,7 @@
   
   .logout-button {
     background: white;
-    color: #c432d1;
+    color: #df0c28;
     padding: 0.5rem 1.5rem;
     border: 2px solid white;
     border-radius: 8px;
