@@ -56,7 +56,7 @@ const Login = () => {
       <div className="login-card">
         <div className="login-header">
           <h1>{isRegistering ? 'ลงทะเบียน' : 'เข้าสู่ระบบ'}</h1>
-          <p>ระบบจัดการรายการอาหาร</p>
+          <p>Food Menu Management</p>
         </div>
 
         {error && <div className="error-message">{error}</div>}
